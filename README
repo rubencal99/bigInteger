@@ -1,0 +1,14 @@
+// Name: Ruben Calderon
+// CruzID: rucalder
+// Date: November 17, 2019
+// Pa3
+
+1. README - Serves as table of contents for project.
+2. Makefile - Compiles executable c files.
+3. ListTest.c - A test client for the List.c file.
+4. List.h - Header file containing all method declarations for List.c.
+5. List.c - List ADT with front, back, and cursor nodes.
+6. BigInteger.c - Test client for BigInteger.c file.
+7. BigInteger.h - Header file containing all method declarations for BigInteger.c.
+8. BigInteger.c - List* ADT that acts as a a long number.
+9. Arithmetic.c - Program presenting all methods of BigInteger.c
